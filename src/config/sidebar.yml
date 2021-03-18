@@ -4,17 +4,15 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
-- label: Usage
+- label: Game Systems
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-- label: More
+    - label: 'Leveling'
+      link: '/systems/leveling'
+    - label: 'Classes'
+      link: '/systems/classes'
+- label: Documentation
   items:
-    - label: FAQ
-      link: /faq
-    - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+    - label: 'Loot tables'
+      link: '/mob-list'
+    - label: 'Spells'
+      link: '/spells'

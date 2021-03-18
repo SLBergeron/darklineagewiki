@@ -1,14 +1,16 @@
+const path = require(`path`);
+
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.app`,
-    siteAuthor: `@rocketseat`,
+    siteTitle: `Dark Lineage Owen Wiki`,
+    defaultTitle: `Dark Lineage Owen Wiki`,
+    siteTitleShort: `DLO Wiki`,
+    siteDescription: `A comprehensive wiki to the Warcraft III Custom RPG, Dark Lineage Owen`,
+    siteUrl: `https://darklineagewiki.com`,
+    siteAuthor: `@Werfert`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
-    themeColor: `#8257E6`,
+    themeColor: `#444444`,
     basePath: `/`,
   },
   flags: { PRESERVE_WEBPACK_CACHE: true },
@@ -48,5 +50,21 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `./src/data/`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        // provide the path to your image folder here:
+        path: path.join(__dirname, `src`, `images`),
+      },
+    },
   ],
 };

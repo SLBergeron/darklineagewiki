@@ -1,0 +1,3799 @@
+[
+    {
+      "Mob": "Angry Fairy",
+      "_key": "n00E",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G5",
+          "Item_Name": "Spell Book : Eruption",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G2",
+          "Item_Name": "Spell Book : Lightning Bolt",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EK",
+          "Item_Name": "Oriharukon",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0ED",
+          "Item_Name": "Mithril",
+          "Drop_Chance": "$timerdialog001"
+        },
+        {
+          "_key": "I0LH",
+          "Item_Name": "Scroll of Town Potal",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Angry Oger",
+      "_key": "n02F",
+      "Drops":
+      [
+        {
+          "_key": "I0LD",
+          "Item_Name": "Recipe : Katana of proto type",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0EQ",
+          "Item_Name": "Blood of Ogre",
+          "Drop_Chance": "$9Func0088"
+        }
+      ]
+    },
+    {
+      "Mob": "Ashitagio",
+      "_key": "n011",
+      "Drops":
+      [
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EV",
+          "Item_Name": "Ash of Ashitagio",
+          "Drop_Chance": "5000"
+        },
+        {
+          "_key": "I0EK",
+          "Item_Name": "Oriharukon",
+          "Drop_Chance": "500"
+        }
+      ]
+    },
+    {
+      "Mob": "Balrog",
+      "_key": "n019",
+      "Drops":
+      [
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0HL",
+          "Item_Name": "Ancient Scroll",
+          "Drop_Chance": "$4E20"
+        },
+        {
+          "_key": "I00B",
+          "Item_Name": "+0 Sealed Ancient Sword",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "290"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0J7",
+          "Item_Name": "+0 Cloak of Lord",
+          "Drop_Chance": "$3E8"
+        }
+      ]
+    },
+    {
+      "Mob": "Bear",
+      "_key": "n01M",
+      "Drops":
+      [
+        {
+          "_key": "I0F0",
+          "Item_Name": "Recipe : High-quality Leather",
+          "Drop_Chance": "30"
+        },
+        {
+          "_key": "I0EB",
+          "Item_Name": "Leather",
+          "Drop_Chance": "30"
+        },
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Beholder",
+      "_key": "n000",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$2710"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$2AF8"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DT",
+          "Item_Name": "Spell Book : Greater Heal",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DV",
+          "Item_Name": "Spell Book : Sleep",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DU",
+          "Item_Name": "Spell Book : Disease",
+          "Drop_Chance": "$4B0"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "40"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Black Knight",
+      "_key": "n01R",
+      "Drops":
+      [
+        {
+          "_key": "I0FM",
+          "Item_Name": "Recipe : Cloak of Protection",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I06K",
+          "Item_Name": "+0 Bec De Corbin",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0GB",
+          "Item_Name": "Spell Book : Blessed Armor",
+          "Drop_Chance": "80"
+        }
+      ]
+    },
+    {
+      "Mob": "Bugbear",
+      "_key": "n006",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        }
+      ]
+    },
+    {
+      "Mob": "Burning Archer",
+      "_key": "n00Z",
+      "Drops":
+      [
+        {
+          "_key": "I0F3",
+          "Item_Name": "Recipe : Long Bow",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0F9",
+          "Item_Name": "Recipe : Cross Bow",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DT",
+          "Item_Name": "Spell Book : Greater Heal",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0GD",
+          "Item_Name": "Spell Book : Storm Shot",
+          "Drop_Chance": "$integers022"
+        }
+      ]
+    },
+    {
+      "Mob": "Burning Dragon",
+      "_key": "n00Y",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "290"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$7D0"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$9Func0088"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "$integers002"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0GR",
+          "Item_Name": "Spell Book : Life Stream",
+          "Drop_Chance": "$3E8"
+        }
+      ]
+    },
+    {
+      "Mob": "Burning Warrior",
+      "_key": "n010",
+      "Drops":
+      [
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I04C",
+          "Item_Name": "+0 Great Sword",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0GC",
+          "Item_Name": "Spell Book : Shadow Fang",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0GS",
+          "Item_Name": "Spell Book : Burning Weapon",
+          "Drop_Chance": "$9Func0088"
+        }
+      ]
+    },
+    {
+      "Mob": "Cockatrice",
+      "_key": "n00U",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0EE",
+          "Item_Name": "Iron Ingot",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0IN",
+          "Item_Name": "Spell Book : Earth Quake",
+          "Drop_Chance": "800"
+        }
+      ]
+    },
+    {
+      "Mob": "Crapman",
+      "_key": "n01F",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Crust Sian",
+      "_key": "n01E",
+      "Drops":
+      [
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "5000"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "5500"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0GN",
+          "Item_Name": "Spell Book : Nature's Blessing",
+          "Drop_Chance": "100"
+        }
+      ]
+    },
+    {
+      "Mob": "Deer",
+      "_key": "n01N",
+      "Drops":
+      [
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EI",
+          "Item_Name": "Wood Stem",
+          "Drop_Chance": "20"
+        }
+      ]
+    },
+    {
+      "Mob": "Demon",
+      "_key": "n00J",
+      "Drops":
+      [
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$7D0"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$9Func0088"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0GR",
+          "Item_Name": "Spell Book : Life Stream",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0GJ",
+          "Item_Name": "Spell Book : MANA Drain",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0H3",
+          "Item_Name": "Spell Book : Summon Monster",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0J7",
+          "Item_Name": "+0 Cloak of Lord",
+          "Drop_Chance": "$3E8"
+        }
+      ]
+    },
+    {
+      "Mob": "Desert Giant Spider",
+      "_key": "n02G",
+      "Drops":
+      [
+        {
+          "_key": "I0DU",
+          "Item_Name": "Spell Book : Disease",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0EN",
+          "Item_Name": "Darklord Stone",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "2"
+        }
+      ]
+    },
+    {
+      "Mob": "Dobermann",
+      "_key": "n00P",
+      "Drops":
+      [
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0F0",
+          "Item_Name": "Recipe : High-quality Leather",
+          "Drop_Chance": "25"
+        }
+      ]
+    },
+    {
+      "Mob": "Drake",
+      "_key": "n013",
+      "Drops":
+      [
+        {
+          "_key": "I0EX",
+          "Item_Name": "Tear of Wind",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "290"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$9Func0088"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$AF0"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DT",
+          "Item_Name": "Spell Book : Greater Heal",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0GO",
+          "Item_Name": "Spell Book : Wind Walk",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0GL",
+          "Item_Name": "Spell Book : Blind Hiding",
+          "Drop_Chance": "550"
+        },
+        {
+          "_key": "I0GZ",
+          "Item_Name": "Spell Book : Storm Walk",
+          "Drop_Chance": "$96"
+        }
+      ]
+    },
+    {
+      "Mob": "Ettin",
+      "_key": "n01B",
+      "Drops":
+      [
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G5",
+          "Item_Name": "Spell Book : Eruption",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0IN",
+          "Item_Name": "Spell Book : Earth Quake",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0GA",
+          "Item_Name": "Spell Book : Greater Haste",
+          "Drop_Chance": "500"
+        }
+      ]
+    },
+    {
+      "Mob": "Fire egg",
+      "_key": "n01K",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "5000"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "5500"
+        }
+      ]
+    },
+    {
+      "Mob": "Forgotten Drake",
+      "_key": "n01W",
+      "Drops":
+      [
+        {
+          "_key": "I0EX",
+          "Item_Name": "Tear of Wind",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "290"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$9Func0088"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$AF0"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DT",
+          "Item_Name": "Spell Book : Greater Heal",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0HL",
+          "Item_Name": "Ancient Scroll",
+          "Drop_Chance": "9000"
+        },
+        {
+          "_key": "I0GL",
+          "Item_Name": "Spell Book : Blind Hiding",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0GZ",
+          "Item_Name": "Spell Book : Storm Walk",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0IF",
+          "Item_Name": "+0 Sealed Ancient Bow",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0IH",
+          "Item_Name": "Spell Book : Lightning Storm",
+          "Drop_Chance": "$4B0"
+        }
+      ]
+    },
+    {
+      "Mob": "Forgotten Harpy",
+      "_key": "n01Y",
+      "Drops":
+      [
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "5000"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "5500"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0GA",
+          "Item_Name": "Spell Book : Greater Haste",
+          "Drop_Chance": "550"
+        },
+        {
+          "_key": "I0HL",
+          "Item_Name": "Ancient Scroll",
+          "Drop_Chance": "$2AF8"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EX",
+          "Item_Name": "Tear of Wind",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0EW",
+          "Item_Name": "Feather of Wind",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0F6",
+          "Item_Name": "Recipe : Sayha's Bow",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I012",
+          "Item_Name": "+0 Sealed Ancient Robe",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0GJ",
+          "Item_Name": "Spell Book : MANA Drain",
+          "Drop_Chance": "90"
+        },
+        {
+          "_key": "I0GM",
+          "Item_Name": "Spell Book : Vampiric Touch",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0IC",
+          "Item_Name": "+0 Sealed Ancient Gauntlet",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0IF",
+          "Item_Name": "+0 Sealed Ancient Bow",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0IM",
+          "Item_Name": "Spell Book : Counter Magic",
+          "Drop_Chance": "100"
+        }
+      ]
+    },
+    {
+      "Mob": "Forgotten King Bugbear",
+      "_key": "n01V",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HL",
+          "Item_Name": "Ancient Scroll",
+          "Drop_Chance": "$2710"
+        },
+        {
+          "_key": "I00B",
+          "Item_Name": "+0 Sealed Ancient Sword",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0ID",
+          "Item_Name": "+0 Sealed Ancient Axe",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0J2",
+          "Item_Name": "+0 Sealed Ancient Magic Helm",
+          "Drop_Chance": "800"
+        }
+      ]
+    },
+    {
+      "Mob": "Forgotten Lycanthrope",
+      "_key": "n01U",
+      "Drops":
+      [
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HL",
+          "Item_Name": "Ancient Scroll",
+          "Drop_Chance": "$2AF8"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I013",
+          "Item_Name": "+0 Sealed Ancient Plate Mail",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I06K",
+          "Item_Name": "+0 Bec De Corbin",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0GC",
+          "Item_Name": "Spell Book : Shadow Fang",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0GP",
+          "Item_Name": "Spell Book : Slow",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0H1",
+          "Item_Name": "Spell Book : Final Burn",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0IB",
+          "Item_Name": "+0 Sealed Ancient Dagger",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0IG",
+          "Item_Name": "+0 Sealed Ancient Dagger",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0IC",
+          "Item_Name": "+0 Sealed Ancient Gauntlet",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0IE",
+          "Item_Name": "+0 Sealed Ancient Dual Blade",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0J6",
+          "Item_Name": "+0 Sealed Ancient Shield",
+          "Drop_Chance": "$3E8"
+        }
+      ]
+    },
+    {
+      "Mob": "Forgotten Ogre",
+      "_key": "n01X",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HL",
+          "Item_Name": "Ancient Scroll",
+          "Drop_Chance": "$2710"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I013",
+          "Item_Name": "+0 Sealed Ancient Plate Mail",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I00B",
+          "Item_Name": "+0 Sealed Ancient Sword",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0FA",
+          "Item_Name": "Recipe : Full-swing Hammer",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0FK",
+          "Item_Name": "Recipe : Power Up Gloves",
+          "Drop_Chance": "$9Func0088"
+        },
+        {
+          "_key": "I0EQ",
+          "Item_Name": "Blood of Ogre",
+          "Drop_Chance": "$9Func0088"
+        },
+        {
+          "_key": "I0ID",
+          "Item_Name": "+0 Sealed Ancient Axe",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0J2",
+          "Item_Name": "+0 Sealed Ancient Magic Helm",
+          "Drop_Chance": "750"
+        }
+      ]
+    },
+    {
+      "Mob": "Forgotten Orc Wizard",
+      "_key": "n02D",
+      "Drops":
+      [
+        {
+          "_key": "I0HL",
+          "Item_Name": "Ancient Scroll",
+          "Drop_Chance": "$2AF8"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0IO",
+          "Item_Name": "+0 Spell resistance cotton armor",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0G2",
+          "Item_Name": "Spell Book : Lightning Bolt",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I03I",
+          "Item_Name": "+0 \tWizard's Staff",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0GU",
+          "Item_Name": "Spell Book : Stalag",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0H4",
+          "Item_Name": "Spell Book : Taming Monster",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I012",
+          "Item_Name": "+0 Sealed Ancient Robe",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0LJ",
+          "Item_Name": "Spell Book : MANA Recharge",
+          "Drop_Chance": "$trigger005"
+        }
+      ]
+    },
+    {
+      "Mob": "Gast",
+      "_key": "n00X",
+      "Drops":
+      [
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0H3",
+          "Item_Name": "Spell Book : Summon Monster",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0GE",
+          "Item_Name": "Spell Book : Enchant Venom",
+          "Drop_Chance": "290"
+        },
+        {
+          "_key": "I0LI",
+          "Item_Name": "Spell Book : Silence",
+          "Drop_Chance": "500"
+        }
+      ]
+    },
+    {
+      "Mob": "Gast Lord",
+      "_key": "n007",
+      "Drops":
+      [
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0H3",
+          "Item_Name": "Spell Book : Summon Monster",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0GE",
+          "Item_Name": "Spell Book : Enchant Venom",
+          "Drop_Chance": "$trigger005"
+        }
+      ]
+    },
+    {
+      "Mob": "Ghoul",
+      "_key": "n004",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "55"
+        },
+        {
+          "_key": "I0EZ",
+          "Item_Name": "Recipe : Oriharukon",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0DT",
+          "Item_Name": "Spell Book : Greater Heal",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0GM",
+          "Item_Name": "Spell Book : Vampiric Touch",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0II",
+          "Item_Name": "Spell Book : Create Ghoul",
+          "Drop_Chance": "500"
+        }
+      ]
+    },
+    {
+      "Mob": "Giant Ant",
+      "_key": "n018",
+      "Drops":
+      [
+        {
+          "_key": "I0F1",
+          "Item_Name": "Recipe : Mithril Thread",
+          "Drop_Chance": "40"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "40"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "40"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "40"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "40"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "40"
+        }
+      ]
+    },
+    {
+      "Mob": "Harpy",
+      "_key": "n00W",
+      "Drops":
+      [
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$2710"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$2AF8"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EW",
+          "Item_Name": "Feather of Wind",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0GJ",
+          "Item_Name": "Spell Book : MANA Drain",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0IM",
+          "Item_Name": "Spell Book : Counter Magic",
+          "Drop_Chance": "100"
+        }
+      ]
+    },
+    {
+      "Mob": "Horn Cerverus",
+      "_key": "n01L",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EN",
+          "Item_Name": "Darklord Stone",
+          "Drop_Chance": "$9Func0088"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "80"
+        }
+      ]
+    },
+    {
+      "Mob": "Husky",
+      "_key": "n01O",
+      "Drops":
+      [
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I04C",
+          "Item_Name": "+0 Great Sword",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0GC",
+          "Item_Name": "Spell Book : Shadow Fang",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0GS",
+          "Item_Name": "Spell Book : Burning Weapon",
+          "Drop_Chance": "$9Func0088"
+        }
+      ]
+    },
+    {
+      "Mob": "Ifrit",
+      "_key": "n00O",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$2710"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$2AF8"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DT",
+          "Item_Name": "Spell Book : Greater Heal",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DV",
+          "Item_Name": "Spell Book : Sleep",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DU",
+          "Item_Name": "Spell Book : Disease",
+          "Drop_Chance": "$4B0"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "40"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "King Bugbear",
+      "_key": "n008",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        }
+      ]
+    },
+    {
+      "Mob": "Kobold",
+      "_key": "n01I",
+      "Drops":
+      [
+        {
+          "_key": "I0F1",
+          "Item_Name": "Recipe : Mithril Thread",
+          "Drop_Chance": "35"
+        },
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "35"
+        },
+        {
+          "_key": "I0FR",
+          "Item_Name": "+0 Broad Sword",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Lava Golem",
+      "_key": "n00B",
+      "Drops":
+      [
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I04C",
+          "Item_Name": "+0 Great Sword",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0GB",
+          "Item_Name": "Spell Book : Blessed Armor",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0GV",
+          "Item_Name": "Spell Book : Iron Skin",
+          "Drop_Chance": "8000"
+        }
+      ]
+    },
+    {
+      "Mob": "Lich",
+      "_key": "n00K",
+      "Drops":
+      [
+        {
+          "_key": "I0BA",
+          "Item_Name": "+0 Crystal Gloves",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$44boolean001"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$60player001"
+        },
+        {
+          "_key": "I0G2",
+          "Item_Name": "Spell Book : Lightning Bolt",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0DS",
+          "Item_Name": "Spell Book：Cone of Cold",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EN",
+          "Item_Name": "Darklord Stone",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I07E",
+          "Item_Name": "+0 Magic Helm : Brilliance",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I07O",
+          "Item_Name": "+0 Magic Helm : Intense cold",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I088",
+          "Item_Name": "+0 Magic Helm : Darkness",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I03I",
+          "Item_Name": "+0 \tWizard's Staff",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0GP",
+          "Item_Name": "Spell Book : Slow",
+          "Drop_Chance": "280"
+        },
+        {
+          "_key": "I0GN",
+          "Item_Name": "Spell Book : Nature's Blessing",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0GU",
+          "Item_Name": "Spell Book : Stalag",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0H0",
+          "Item_Name": "Spell Book : Ice Lance",
+          "Drop_Chance": "$96"
+        },
+        {
+          "_key": "I0GW",
+          "Item_Name": "Spell Book : Invisibility",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0GX",
+          "Item_Name": "Spell Book : Change Position",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0H4",
+          "Item_Name": "Spell Book : Taming Monster",
+          "Drop_Chance": "$timerdialog001"
+        },
+        {
+          "_key": "I0II",
+          "Item_Name": "Spell Book : Create Ghoul",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0IK",
+          "Item_Name": "Recipe : Cold Eruption",
+          "Drop_Chance": "$integers002"
+        },
+        {
+          "_key": "I0LI",
+          "Item_Name": "Spell Book : Silence",
+          "Drop_Chance": "5000"
+        }
+      ]
+    },
+    {
+      "Mob": "Lindvior",
+      "_key": "n002",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$44boolean001"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$60player001"
+        },
+        {
+          "_key": "I0G5",
+          "Item_Name": "Spell Book : Eruption",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0G2",
+          "Item_Name": "Spell Book : Lightning Bolt",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EU",
+          "Item_Name": "Dragon Scale",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0EX",
+          "Item_Name": "Tear of Wind",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0CO",
+          "Item_Name": "+0 Cloak of invisibility",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0F6",
+          "Item_Name": "Recipe : Sayha's Bow",
+          "Drop_Chance": "$integers002"
+        },
+        {
+          "_key": "I0FI",
+          "Item_Name": "Recipe : Dragon Scale Mail",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0GL",
+          "Item_Name": "Spell Book : Blind Hiding",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0IH",
+          "Item_Name": "Spell Book : Lightning Storm",
+          "Drop_Chance": "$trigger005"
+        }
+      ]
+    },
+    {
+      "Mob": "Lizard Man",
+      "_key": "n01Q",
+      "Drops":
+      [
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "55"
+        },
+        {
+          "_key": "I0FR",
+          "Item_Name": "+0 Broad Sword",
+          "Drop_Chance": "80"
+        }
+      ]
+    },
+    {
+      "Mob": "Lycanthrope",
+      "_key": "n00R",
+      "Drops":
+      [
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I06K",
+          "Item_Name": "+0 Bec De Corbin",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0GP",
+          "Item_Name": "Spell Book : Slow",
+          "Drop_Chance": "550"
+        }
+      ]
+    },
+    {
+      "Mob": "Minotaurus",
+      "_key": "n00T",
+      "Drops":
+      [
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HL",
+          "Item_Name": "Ancient Scroll",
+          "Drop_Chance": "$55F0"
+        },
+        {
+          "_key": "I00B",
+          "Item_Name": "+0 Sealed Ancient Sword",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I013",
+          "Item_Name": "+0 Sealed Ancient Plate Mail",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0GR",
+          "Item_Name": "Spell Book : Life Stream",
+          "Drop_Chance": "$5trigger082"
+        }
+      ]
+    },
+    {
+      "Mob": "Muryan",
+      "_key": "n01A",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$2710"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$2AF8"
+        },
+        {
+          "_key": "I0IN",
+          "Item_Name": "Spell Book : Earth Quake",
+          "Drop_Chance": "800"
+        }
+      ]
+    },
+    {
+      "Mob": "Ogre",
+      "_key": "n00V",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0FA",
+          "Item_Name": "Recipe : Full-swing Hammer",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0FK",
+          "Item_Name": "Recipe : Power Up Gloves",
+          "Drop_Chance": "5000"
+        },
+        {
+          "_key": "I0EQ",
+          "Item_Name": "Blood of Ogre",
+          "Drop_Chance": "5000"
+        }
+      ]
+    },
+    {
+      "Mob": "Orc",
+      "_key": "n01H",
+      "Drops":
+      [
+        {
+          "_key": "I0F0",
+          "Item_Name": "Recipe : High-quality Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0A6",
+          "Item_Name": "+0 Orc Chain Mail",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0EB",
+          "Item_Name": "Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0FR",
+          "Item_Name": "+0 Broad Sword",
+          "Drop_Chance": "80"
+        }
+      ]
+    },
+    {
+      "Mob": "Orc warrior",
+      "_key": "n009",
+      "Drops":
+      [
+        {
+          "_key": "I0F0",
+          "Item_Name": "Recipe : High-quality Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0A6",
+          "Item_Name": "+0 Orc Chain Mail",
+          "Drop_Chance": "55"
+        },
+        {
+          "_key": "I0EE",
+          "Item_Name": "Iron Ingot",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0FR",
+          "Item_Name": "+0 Broad Sword",
+          "Drop_Chance": "80"
+        }
+      ]
+    },
+    {
+      "Mob": "Orc wizard",
+      "_key": "n01P",
+      "Drops":
+      [
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I03I",
+          "Item_Name": "+0 \tWizard's Staff",
+          "Drop_Chance": "100"
+        }
+      ]
+    },
+    {
+      "Mob": "Owlbear",
+      "_key": "n00D",
+      "Drops":
+      [
+        {
+          "_key": "I0F0",
+          "Item_Name": "Recipe : High-quality Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EB",
+          "Item_Name": "Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0BK",
+          "Item_Name": "+0 Gloves",
+          "Drop_Chance": "25"
+        }
+      ]
+    },
+    {
+      "Mob": "Phoenix",
+      "_key": "n012",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "290"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$7D0"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$9Func0088"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "5"
+        }
+      ]
+    },
+    {
+      "Mob": "Ramia",
+      "_key": "n01T",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "100"
+        }
+      ]
+    },
+    {
+      "Mob": "Salamander",
+      "_key": "n014",
+      "Drops":
+      [
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "$timerdialog001"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0G3",
+          "Item_Name": "Spell Book : Enchant Weapon",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0GF",
+          "Item_Name": "Spell Book : Blood to Soul",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Scorpion",
+      "_key": "n01C",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0G5",
+          "Item_Name": "Spell Book : Eruption",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0FD",
+          "Item_Name": "Recipe : Magic Helm : Holy",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Shelob",
+      "_key": "n00F",
+      "Drops":
+      [
+        {
+          "_key": "I0G5",
+          "Item_Name": "Spell Book : Eruption",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0F1",
+          "Item_Name": "Recipe : Mithril Thread",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EM",
+          "Item_Name": "Thread",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0FG",
+          "Item_Name": "Recipe : Elven Chain Mail",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Skeleton",
+      "_key": "n00M",
+      "Drops":
+      [
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Skeleton Archer",
+      "_key": "n00L",
+      "Drops":
+      [
+        {
+          "_key": "I0F8",
+          "Item_Name": "Recipe : Elven's Bow",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0F9",
+          "Item_Name": "Recipe : Cross Bow",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0FL",
+          "Item_Name": "Recipe : Bracer",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0GD",
+          "Item_Name": "Spell Book : Storm Shot",
+          "Drop_Chance": "$trigger005"
+        }
+      ]
+    },
+    {
+      "Mob": "Skeleton of knight",
+      "_key": "n02C",
+      "Drops":
+      [
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0LD",
+          "Item_Name": "Recipe : Katana of proto type",
+          "Drop_Chance": "120"
+        },
+        {
+          "_key": "I0LE",
+          "Item_Name": "Recipe : Dual Katana",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G3",
+          "Item_Name": "Spell Book : Enchant Weapon",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0JT",
+          "Item_Name": "+0 Two Handed Sword",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "$trigger005"
+        }
+      ]
+    },
+    {
+      "Mob": "Skeleton Sniper",
+      "_key": "n00N",
+      "Drops":
+      [
+        {
+          "_key": "I0F8",
+          "Item_Name": "Recipe : Elven's Bow",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0F9",
+          "Item_Name": "Recipe : Cross Bow",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0FL",
+          "Item_Name": "Recipe : Bracer",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0F3",
+          "Item_Name": "Recipe : Long Bow",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0GP",
+          "Item_Name": "Spell Book : Slow",
+          "Drop_Chance": "850"
+        },
+        {
+          "_key": "I0GD",
+          "Item_Name": "Spell Book : Storm Shot",
+          "Drop_Chance": "$C8"
+        }
+      ]
+    },
+    {
+      "Mob": "Spartoi",
+      "_key": "n00I",
+      "Drops":
+      [
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I092",
+          "Item_Name": "+0 Plate Mail",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0G3",
+          "Item_Name": "Spell Book : Enchant Weapon",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0EZ",
+          "Item_Name": "Recipe : Oriharukon",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0GQ",
+          "Item_Name": "Spell Book : Detection",
+          "Drop_Chance": "100"
+        }
+      ]
+    },
+    {
+      "Mob": "Stone Golem",
+      "_key": "n00H",
+      "Drops":
+      [
+        {
+          "_key": "I0E1",
+          "Item_Name": "Spell Book : Breath of Earth",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0ED",
+          "Item_Name": "Mithril",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EE",
+          "Item_Name": "Iron Ingot",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Succubus",
+      "_key": "n017",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$2710"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$2AF8"
+        },
+        {
+          "_key": "I0DU",
+          "Item_Name": "Spell Book : Disease",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "$44boolean001"
+        },
+        {
+          "_key": "I0GZ",
+          "Item_Name": "Spell Book : Storm Walk",
+          "Drop_Chance": "$trigger005"
+        }
+      ]
+    },
+    {
+      "Mob": "Succubus Queen",
+      "_key": "n016",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "8000"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "9000"
+        },
+        {
+          "_key": "I0DU",
+          "Item_Name": "Spell Book : Disease",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0GF",
+          "Item_Name": "Spell Book : Blood to Soul",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0GZ",
+          "Item_Name": "Spell Book : Storm Walk",
+          "Drop_Chance": "500"
+        }
+      ]
+    },
+    {
+      "Mob": "Troll",
+      "_key": "n00C",
+      "Drops":
+      [
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0DT",
+          "Item_Name": "Spell Book : Greater Heal",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0FD",
+          "Item_Name": "Recipe : Magic Helm : Holy",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0LK",
+          "Item_Name": "Spell Book : Heal All",
+          "Drop_Chance": "500"
+        }
+      ]
+    },
+    {
+      "Mob": "Turtle Dragon",
+      "_key": "n01G",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0GN",
+          "Item_Name": "Spell Book : Nature's Blessing",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0IK",
+          "Item_Name": "Recipe : Cold Eruption",
+          "Drop_Chance": "$5trigger082"
+        }
+      ]
+    },
+    {
+      "Mob": "Ungoliant",
+      "_key": "n00G",
+      "Drops":
+      [
+        {
+          "_key": "I0G5",
+          "Item_Name": "Spell Book : Eruption",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0F1",
+          "Item_Name": "Recipe : Mithril Thread",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EM",
+          "Item_Name": "Thread",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        }
+      ]
+    },
+    {
+      "Mob": "Vakuuk",
+      "_key": "n01D",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "55"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0AG",
+          "Item_Name": "+0 Banded Mail",
+          "Drop_Chance": "80"
+        }
+      ]
+    },
+    {
+      "Mob": "Valakas",
+      "_key": "n015",
+      "Drops":
+      [
+        {
+          "_key": "I0GY",
+          "Item_Name": "Spell Book : Clear Mind",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G4",
+          "Item_Name": "Spell Book : Sun burst",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "$C8"
+        },
+        {
+          "_key": "I0EU",
+          "Item_Name": "Dragon Scale",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0F7",
+          "Item_Name": "Recipe : Saulabi Long Sword",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0FB",
+          "Item_Name": "Recipe : Darklord Blade",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0FC",
+          "Item_Name": "Recipe : Darklord Claw",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0FI",
+          "Item_Name": "Recipe : Dragon Scale Mail",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0CO",
+          "Item_Name": "+0 Cloak of invisibility",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0GL",
+          "Item_Name": "Spell Book : Blind Hiding",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0GS",
+          "Item_Name": "Spell Book : Burning Weapon",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0GT",
+          "Item_Name": "Spell Book : Breath of Fire",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0GV",
+          "Item_Name": "Spell Book : Iron Skin",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0H5",
+          "Item_Name": "Spell Book : Fire Wall",
+          "Drop_Chance": ""
+        }
+      ]
+    },
+    {
+      "Mob": "Violent Pan",
+      "_key": "n00A",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0F0",
+          "Item_Name": "Recipe : High-quality Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EB",
+          "Item_Name": "Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EI",
+          "Item_Name": "Wood Stem",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0LH",
+          "Item_Name": "Scroll of Town Potal",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Weary Dragon",
+      "_key": "n01J",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "290"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "$708"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "$834"
+        },
+        {
+          "_key": "I0G2",
+          "Item_Name": "Spell Book : Lightning Bolt",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0G6",
+          "Item_Name": "Spell Book : Cancelation",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0G5",
+          "Item_Name": "Spell Book : Eruption",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0DX",
+          "Item_Name": "Spell Book : Frozen Cloud",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DS",
+          "Item_Name": "Spell Book：Cone of Cold",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DZ",
+          "Item_Name": "Spell Book : Haste",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DW",
+          "Item_Name": "Spell Book : Bravery",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EX",
+          "Item_Name": "Tear of Wind",
+          "Drop_Chance": "500"
+        }
+      ]
+    },
+    {
+      "Mob": "Werewolf",
+      "_key": "n00S",
+      "Drops":
+      [
+        {
+          "_key": "I0LD",
+          "Item_Name": "Recipe : Katana of proto type",
+          "Drop_Chance": "120"
+        },
+        {
+          "_key": "I0EE",
+          "Item_Name": "Iron Ingot",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Wild Boar",
+      "_key": "n005",
+      "Drops":
+      [
+        {
+          "_key": "I0F0",
+          "Item_Name": "Recipe : High-quality Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EB",
+          "Item_Name": "Leather",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "50"
+        }
+      ]
+    },
+    {
+      "Mob": "Wolf",
+      "_key": "n00Q",
+      "Drops":
+      [
+        {
+          "_key": "I0EC",
+          "Item_Name": "Animal Hide",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0F0",
+          "Item_Name": "Recipe : High-quality Leather",
+          "Drop_Chance": "25"
+        }
+      ]
+    },
+    {
+      "Mob": "Zombie",
+      "_key": "n003",
+      "Drops":
+      [
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0F1",
+          "Item_Name": "Recipe : Mithril Thread",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0EZ",
+          "Item_Name": "Recipe : Oriharukon",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ED",
+          "Item_Name": "Mithril",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0DV",
+          "Item_Name": "Spell Book : Sleep",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0E0",
+          "Item_Name": "Spell Book : Heal",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0II",
+          "Item_Name": "Spell Book : Create Ghoul",
+          "Drop_Chance": "$5trigger082"
+        },
+        {
+          "_key": "I0LH",
+          "Item_Name": "Scroll of Town Potal",
+          "Drop_Chance": "500"
+        }
+      ]
+    },
+    {
+      "Mob": "Zombie Dragon",
+      "_key": "n001",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "290"
+        },
+        {
+          "_key": "I0HO",
+          "Item_Name": "Blessed Scroll of Enchant Armor",
+          "Drop_Chance": "5000"
+        },
+        {
+          "_key": "I0HP",
+          "Item_Name": "Blessed Scroll of Enchant Weapon",
+          "Drop_Chance": "5500"
+        },
+        {
+          "_key": "I0DV",
+          "Item_Name": "Spell Book : Sleep",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0DU",
+          "Item_Name": "Spell Book : Disease",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0DY",
+          "Item_Name": "Spell Book : Teleport",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0DS",
+          "Item_Name": "Spell Book：Cone of Cold",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0EN",
+          "Item_Name": "Darklord Stone",
+          "Drop_Chance": "$4B0"
+        },
+        {
+          "_key": "I0EF",
+          "Item_Name": "Stone of MANA",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I00H",
+          "Item_Name": "+0 Katana",
+          "Drop_Chance": "$integers002"
+        },
+        {
+          "_key": "I06A",
+          "Item_Name": "+0 Great Axe",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I03I",
+          "Item_Name": "+0 \tWizard's Staff",
+          "Drop_Chance": "$integers002"
+        },
+        {
+          "_key": "I0EG",
+          "Item_Name": "Diamond",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EJ",
+          "Item_Name": "Emerald",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0EH",
+          "Item_Name": "Saphire",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0ER",
+          "Item_Name": "Ruby",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "5"
+        },
+        {
+          "_key": "I0GQ",
+          "Item_Name": "Spell Book : Detection",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0II",
+          "Item_Name": "Spell Book : Create Ghoul",
+          "Drop_Chance": "100"
+        }
+      ]
+    },
+    {
+      "Mob": "Zombie of Elmore General",
+      "_key": "n01S",
+      "Drops":
+      [
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0LD",
+          "Item_Name": "Recipe : Katana of proto type",
+          "Drop_Chance": "80"
+        },
+        {
+          "_key": "I0LE",
+          "Item_Name": "Recipe : Dual Katana",
+          "Drop_Chance": "100"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0F5",
+          "Item_Name": "Recipe : Rapier",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I04C",
+          "Item_Name": "+0 Great Sword",
+          "Drop_Chance": "$trigger005"
+        },
+        {
+          "_key": "I0DS",
+          "Item_Name": "Spell Book：Cone of Cold",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ED",
+          "Item_Name": "Mithril",
+          "Drop_Chance": "25"
+        }
+      ]
+    },
+    {
+      "Mob": "Zombie of elmore wizard",
+      "_key": "n02E",
+      "Drops":
+      [
+        {
+          "_key": "I0IK",
+          "Item_Name": "Recipe : Cold Eruption",
+          "Drop_Chance": "$3E8"
+        },
+        {
+          "_key": "I0HK",
+          "Item_Name": "Scroll of Enchant Armor",
+          "Drop_Chance": "800"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0GA",
+          "Item_Name": "Spell Book : Greater Haste",
+          "Drop_Chance": "500"
+        },
+        {
+          "_key": "I0HN",
+          "Item_Name": "Scroll of Enchant Weapon",
+          "Drop_Chance": "900"
+        },
+        {
+          "_key": "I0DS",
+          "Item_Name": "Spell Book：Cone of Cold",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0G8",
+          "Item_Name": "Scroll of Teleport",
+          "Drop_Chance": "50"
+        },
+        {
+          "_key": "I0ED",
+          "Item_Name": "Mithril",
+          "Drop_Chance": "25"
+        },
+        {
+          "_key": "I0LK",
+          "Item_Name": "Spell Book : Heal All",
+          "Drop_Chance": "500"
+        }
+      ]
+    }
+  ]
